@@ -1,14 +1,14 @@
 export const USER_INFORMATIONS = {
-  headerTitle: "EXAMPLE",
-  userName: "EXAMPLE",
-  mascot: "👀",
-  resume: "https://www.EXAMPLE.com",
-  github: "https://www.EXAMPLE.com",
-  domain: "https://www.EXAMPLE.com",
-  meta: {
-    title: "EXAMPLE",
-    description: "EXAMPLE",
-  },
+  "headerTitle": "YamYamee",
+  "userName": "냠냠이",
+  "mascot": "🍮",
+  "resume": "",
+  "github": "https://github.com/YamYamee",
+  "domain": "https://yamyamee.dev",
+  "meta": {
+    "title": "공부 기록",
+    "description": ""
+  }
 };
 
 export const CATEGORY_ICONS: Record<string, string> = {
